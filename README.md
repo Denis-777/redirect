@@ -1,6 +1,6 @@
 # Short link maker
 
-1) Downloads files into server
+1) Create new folder in server and download files
 
 2) Create new database and import database.sql into it
 
