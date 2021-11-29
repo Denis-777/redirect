@@ -1,4 +1,4 @@
-# redirect
+# Short link maker
 
 1) Downloads files into server
 
